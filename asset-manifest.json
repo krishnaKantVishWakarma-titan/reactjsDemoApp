@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.c55d8bf5.chunk.css",
-    "main.js": "/static/js/main.9af3cce4.chunk.js",
-    "main.js.map": "/static/js/main.9af3cce4.chunk.js.map",
+    "main.css": "/static/css/main.dcb90206.chunk.css",
+    "main.js": "/static/js/main.ec55c2c5.chunk.js",
+    "main.js.map": "/static/js/main.ec55c2c5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4988a4a4.js",
     "runtime-main.js.map": "/static/js/runtime-main.4988a4a4.js.map",
     "static/css/2.edf4a95a.chunk.css": "/static/css/2.edf4a95a.chunk.css",
-    "static/js/2.e1c625cc.chunk.js": "/static/js/2.e1c625cc.chunk.js",
-    "static/js/2.e1c625cc.chunk.js.map": "/static/js/2.e1c625cc.chunk.js.map",
+    "static/js/2.10dd626b.chunk.js": "/static/js/2.10dd626b.chunk.js",
+    "static/js/2.10dd626b.chunk.js.map": "/static/js/2.10dd626b.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.edf4a95a.chunk.css.map": "/static/css/2.edf4a95a.chunk.css.map",
-    "static/css/main.c55d8bf5.chunk.css.map": "/static/css/main.c55d8bf5.chunk.css.map",
-    "static/js/2.e1c625cc.chunk.js.LICENSE.txt": "/static/js/2.e1c625cc.chunk.js.LICENSE.txt",
+    "static/css/main.dcb90206.chunk.css.map": "/static/css/main.dcb90206.chunk.css.map",
+    "static/js/2.10dd626b.chunk.js.LICENSE.txt": "/static/js/2.10dd626b.chunk.js.LICENSE.txt",
     "static/media/1.b80a1c68.png": "/static/media/1.b80a1c68.png",
     "static/media/10.d83f1806.png": "/static/media/10.d83f1806.png",
     "static/media/11.42021572.png": "/static/media/11.42021572.png",
@@ -23,7 +23,6 @@
     "static/media/2.0e369fde.png": "/static/media/2.0e369fde.png",
     "static/media/2.13d52ec6.png": "/static/media/2.13d52ec6.png",
     "static/media/22.1b5ee326.png": "/static/media/22.1b5ee326.png",
-    "static/media/23.d0caa99a.png": "/static/media/23.d0caa99a.png",
     "static/media/24.418e4cb6.png": "/static/media/24.418e4cb6.png",
     "static/media/3.9bb1f9b5.png": "/static/media/3.9bb1f9b5.png",
     "static/media/3.f57c749c.png": "/static/media/3.f57c749c.png",
@@ -39,6 +38,7 @@
     "static/media/8.f4267b97.png": "/static/media/8.f4267b97.png",
     "static/media/9.8b2ff65a.png": "/static/media/9.8b2ff65a.png",
     "static/media/header.css": "/static/media/table-3143080_1920.2e552393.png",
+    "static/media/carInfo.module.css": "/static/media/Roboto-Regular.03523cf5.ttf",
     "static/media/ad.aa6d92bd.jpg": "/static/media/ad.aa6d92bd.jpg",
     "static/media/components.css": "/static/media/ad1.4b12ecd3.jpg",
     "static/media/add-user-button.101adb56.svg": "/static/media/add-user-button.101adb56.svg",
@@ -83,8 +83,8 @@
   "entrypoints": [
     "static/js/runtime-main.4988a4a4.js",
     "static/css/2.edf4a95a.chunk.css",
-    "static/js/2.e1c625cc.chunk.js",
-    "static/css/main.c55d8bf5.chunk.css",
-    "static/js/main.9af3cce4.chunk.js"
+    "static/js/2.10dd626b.chunk.js",
+    "static/css/main.dcb90206.chunk.css",
+    "static/js/main.ec55c2c5.chunk.js"
   ]
 }
