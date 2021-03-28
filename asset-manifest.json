@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.dcb90206.chunk.css",
-    "main.js": "/static/js/main.ec55c2c5.chunk.js",
-    "main.js.map": "/static/js/main.ec55c2c5.chunk.js.map",
+    "main.css": "/static/css/main.318f6e5e.chunk.css",
+    "main.js": "/static/js/main.fbec4834.chunk.js",
+    "main.js.map": "/static/js/main.fbec4834.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4988a4a4.js",
     "runtime-main.js.map": "/static/js/runtime-main.4988a4a4.js.map",
-    "static/css/2.edf4a95a.chunk.css": "/static/css/2.edf4a95a.chunk.css",
-    "static/js/2.10dd626b.chunk.js": "/static/js/2.10dd626b.chunk.js",
-    "static/js/2.10dd626b.chunk.js.map": "/static/js/2.10dd626b.chunk.js.map",
+    "static/css/2.b8a9834f.chunk.css": "/static/css/2.b8a9834f.chunk.css",
+    "static/js/2.e1b31405.chunk.js": "/static/js/2.e1b31405.chunk.js",
+    "static/js/2.e1b31405.chunk.js.map": "/static/js/2.e1b31405.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.edf4a95a.chunk.css.map": "/static/css/2.edf4a95a.chunk.css.map",
-    "static/css/main.dcb90206.chunk.css.map": "/static/css/main.dcb90206.chunk.css.map",
-    "static/js/2.10dd626b.chunk.js.LICENSE.txt": "/static/js/2.10dd626b.chunk.js.LICENSE.txt",
+    "static/css/2.b8a9834f.chunk.css.map": "/static/css/2.b8a9834f.chunk.css.map",
+    "static/css/main.318f6e5e.chunk.css.map": "/static/css/main.318f6e5e.chunk.css.map",
+    "static/js/2.e1b31405.chunk.js.LICENSE.txt": "/static/js/2.e1b31405.chunk.js.LICENSE.txt",
     "static/media/1.b80a1c68.png": "/static/media/1.b80a1c68.png",
     "static/media/10.d83f1806.png": "/static/media/10.d83f1806.png",
     "static/media/11.42021572.png": "/static/media/11.42021572.png",
@@ -54,6 +54,7 @@
     "static/media/fav.c31d61db.svg": "/static/media/fav.c31d61db.svg",
     "static/media/favRed.b8c5679b.svg": "/static/media/favRed.b8c5679b.svg",
     "static/media/filterBlack.20d437ab.svg": "/static/media/filterBlack.20d437ab.svg",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.f691f37e.woff",
     "static/media/google-plus.3b44a32b.png": "/static/media/google-plus.3b44a32b.png",
     "static/media/greenCheckIcon.d644c682.svg": "/static/media/greenCheckIcon.d644c682.svg",
     "static/media/lightbulb.331f703d.svg": "/static/media/lightbulb.331f703d.svg",
@@ -82,9 +83,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4988a4a4.js",
-    "static/css/2.edf4a95a.chunk.css",
-    "static/js/2.10dd626b.chunk.js",
-    "static/css/main.dcb90206.chunk.css",
-    "static/js/main.ec55c2c5.chunk.js"
+    "static/css/2.b8a9834f.chunk.css",
+    "static/js/2.e1b31405.chunk.js",
+    "static/css/main.318f6e5e.chunk.css",
+    "static/js/main.fbec4834.chunk.js"
   ]
 }
